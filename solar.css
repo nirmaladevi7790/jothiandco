@@ -28,6 +28,11 @@ body {
     border-bottom: 2px solid blue;
     
   }
+.navbar{
+  margin:0;
+  padding:10px;
+ }
+ 
   .carousel-item img {
 width: 100%;    /* This makes the image responsive */
 height: auto;   /* Preserves aspect ratio */
